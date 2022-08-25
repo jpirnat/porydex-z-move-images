@@ -1,0 +1,14 @@
+{
+    "name": "jpirnat/porydex-z-move-images",
+    "description": "For Porydex. A script to extract all the individual Z-Move images for each language from a combined image.",
+    "type": "project",
+    "require": {
+        "intervention/image": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "Jesse Pirnat",
+            "email": "jessepirnat@gmail.com"
+        }
+    ]
+}
